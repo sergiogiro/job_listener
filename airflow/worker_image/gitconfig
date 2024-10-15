@@ -1,0 +1,2 @@
+[credential]
+        helper = /bin/bash /home/airflow/cred_helper.sh
